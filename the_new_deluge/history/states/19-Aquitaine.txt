@@ -1,0 +1,16 @@
+state = {
+    id = 19
+    name = STATE_19
+    resources = {
+        steel = 14
+        aluminium = 11
+    }
+    provinces = { 6621 6759 6762 6777 6792 9717 9737 11565 11720 }
+    manpower = 1140400
+    buildings_max_level_factor = 1
+    state_category = city
+    local_supplies = 0
+    history = {
+        owner = FRA
+    }
+}

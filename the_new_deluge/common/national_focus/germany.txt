@@ -1,0 +1,55 @@
+focus_tree = {
+    id = germany
+    default = no
+    country = {
+        factor = 0
+        modifier = {
+            add = 10
+            tag = GER
+        }
+    }
+
+    focus = {
+        id = the_new_deluge_Kaiser_strong_focus_1
+        icon = GFX_goal_generic_construct_civ_factory
+        x = -1
+        y = -3
+        cost = 10
+        completion_reward = {
+            add_political_power = 50
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
+
+    focus = {
+        id = the_new_deluge_Kaiser_strong_focus_2
+        icon = GFX_goal_generic_construct_civ_factory
+        x = -3
+        y = -1
+        cost = 10
+        prerequisite = { focus = the_new_deluge_Kaiser_strong_focus_1 }
+        completion_reward = {
+            add_political_power = 50
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
+
+    focus = {
+        id = the_new_deluge_Kaiser_strong_focus_3
+        icon = GFX_goal_generic_construct_civ_factory
+        x = 1
+        y = -1
+        cost = 10
+        prerequisite = { focus = the_new_deluge_Kaiser_strong_focus_1 }
+        completion_reward = {
+            add_political_power = 50
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
+}

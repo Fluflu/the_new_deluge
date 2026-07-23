@@ -1,0 +1,14 @@
+state = {
+    id = 14
+    name = STATE_14
+    provinces = { 527 542 3552 3758 6536 6548 6572 9495 9510 9525 11508 }
+    manpower = 2396600
+    buildings_max_level_factor = 1
+    state_category = city
+    local_supplies = 0
+    history = {
+        owner = FRA
+        add_core_of = BRI
+        add_core_of = FRA
+    }
+}
