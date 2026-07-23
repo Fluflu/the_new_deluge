@@ -9,13 +9,3 @@ tags={
 	"Technologies"
 	"Utilities"
 }
-replace_path="map/strategicregions"
-replace_path="history/states"
-replace_path="history/units"
-replace_path="history/countries"
-replace_path="common/ideas"
-replace_path="common/national_focus"
-replace_path="map/supplyareas"
-replace_path="events"
-replace_path="common/bookmarks"
-replace_path="common/countries"
