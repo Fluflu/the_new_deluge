@@ -1,0 +1,17 @@
+characters={
+    
+    GER_kaiser_ii={
+		name="Wilhelm II"
+		portraits={
+			civilian={
+				large="GFX/leaders/GER/GER_kaiser_ii.png"
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+	}
+}	
