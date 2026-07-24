@@ -1,0 +1,7 @@
+CAL = "countries/California.txt"
+LOU = "countries/Lousiana.txt"
+TEX = "countries/Texas.txt"
+NYC = "countries/New York.txt"
+NWL = "countries/New England.txt"
+GUS = "countries/Georgia.txt"
+ILL = "countries/Illinois.txt"
