@@ -1,0 +1,21 @@
+﻿set_politics = {
+	ruling_party = democratic
+	last_election = "1928.11.8"
+	election_frequency = 48
+	elections_allowed = yes
+}
+set_popularities = {
+	democratic = 99
+	communism = 1
+}
+
+add_ideas = { 
+    oh_say_does_that_star_spangled_banner_yet_wave
+	disarmed_nation
+    free_trade
+}
+capital = 361
+set_research_slots = 3
+set_convoys = 1000
+set_stability = 0.5
+set_war_support = 0.5

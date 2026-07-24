@@ -750,8 +750,6 @@ IF = {
         set_stability = 0.75
     }
 }
-create_faction_from_template = faction_template_axis
-add_to_faction = GER
 add_ideas = { limited_exports limited_conscription partial_economic_mobilisation }
 recruit_character = GER_kaiser_ii
 if = {
@@ -1333,8 +1331,5 @@ if = {
 }
 
 create_faction = "The Imperial Alliance"
-add_to_faction = ENG
-add_to_faction = SOV
-
-gives_guarantee = SAU
-gives_guarantee = YUG
+add_to_faction = HOL
+add_to_faction = FRA

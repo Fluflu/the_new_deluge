@@ -4,7 +4,7 @@ set_convoys = 300
 set_stability = 0.5
 set_war_support = 0.5
 set_politics = {
-    ruling_party = anarchisto
+    ruling_party = neutrality
     last_election = "1932.5.1"
     election_frequency = 48
     elections_allowed = yes
@@ -13,10 +13,10 @@ set_popularities = {
     democratic = 10
     fascism = 0
     communism = 0
-    neutrality = 0
+    neutrality = 75
     centristo = 0
     socialisto = 15
-    anarchisto = 75
+    anarchisto = 0
 }
 
 # Additional starting history effects
@@ -947,12 +947,3 @@ if = {
         }
     }
 }
-
-create_faction = "The Republican Entente"
-add_to_faction = ITA
-add_to_faction = SPR
-add_to_faction = POR
-add_to_faction = ROM
-
-gives_guarantee = HUN
-gives_guarantee = TUR

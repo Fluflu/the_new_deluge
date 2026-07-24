@@ -7,8 +7,8 @@ state = {
 	
 	history = {
 
-		owner = LIT
-		add_core_of = LIT
+		owner = GER
+		add_core_of = GER
 		add_claim_by = PRE
 
 		victory_points = {
