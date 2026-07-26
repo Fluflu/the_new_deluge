@@ -300,7 +300,13 @@ if = {
     }
 }
 
-create_faction = "Commonwealth"
+create_faction = faction_template_commonwealth 
+add_to_faction = SOV 
+add_to_faction = GER 
+add_to_faction = SAU 
+add_to_faction = YUG 
+
+
 add_to_faction = ENG
 add_to_faction = CAN
 add_to_faction = AST

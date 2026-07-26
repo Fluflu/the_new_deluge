@@ -1776,7 +1776,8 @@ if = {
     }
 }
 
-create_faction = "The Kiev accords"
+
+
 puppet = POL
 puppet = FIN
 puppet = AFG
