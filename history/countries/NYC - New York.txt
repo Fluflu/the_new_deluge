@@ -11,9 +11,9 @@ set_politics = {
 }
 set_popularities = {
     democratic = 25
-    fascism = 2
-    communism = 2
-    neutrality = 1
+    fascism = 0
+    communism = 0
+    neutrality = 5
     centristo = 10
     socialisto = 60
     anarchisto = 0
