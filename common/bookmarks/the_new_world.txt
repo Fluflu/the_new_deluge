@@ -24,7 +24,6 @@ bookmarks = {
             version = base_game
         }
         ENG = {
-            minor = yes
             history = the_new_world_ENG_history
             ideology = neutrality
             version = base_game
