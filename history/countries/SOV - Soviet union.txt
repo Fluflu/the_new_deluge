@@ -1780,6 +1780,7 @@ if = {
 
 puppet = POL
 puppet = FIN
-puppet = AFG
 puppet = PER
 puppet = MEN
+puppet = GAL
+puppet = MAN

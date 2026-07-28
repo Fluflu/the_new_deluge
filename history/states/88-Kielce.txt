@@ -6,7 +6,7 @@ state = {
         oil = 3.000
     }
     history = {
-        owner = GAL
+        owner = POL
         victory_points = { 9427 20 }
         victory_points = { 442 3 }
         victory_points = { 9494 1 }

@@ -30,3 +30,12 @@
  anarchism:0 "Classical Anarchism"
  libertarian:0 "Anarchist-capitalism"
  anarchist_communism:0 "Anarchiso-communism"
+
+ syncretism:0 "Totalism"
+ anarchisto:0 "Libertarian"
+ socialisto:0 "Socialism"
+ centristo:0 "Centrism"
+ syncretism_desc:0 "Totalism"
+ anarchisto_desc:0 "Libertarian"
+ socialisto_desc:0 "Socialism"
+ centristo_desc:0 "Centrism"

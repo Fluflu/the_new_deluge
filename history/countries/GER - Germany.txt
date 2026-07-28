@@ -10,7 +10,7 @@ set_politics = {
     elections_allowed = no
 }
 set_popularities = {
-    democratic = 21
+    syncretism = 21
     fascism = 0
     communism = 0
     neutrality = 79
@@ -748,7 +748,8 @@ IF = {
 }
 create_faction = "MittelEuropa"
 puppet = HOL
-puppet = GAL
+puppet = BEL
+puppet = CZE
 
 add_ideas = { sour_loser limited_exports limited_conscription partial_economic_mobilisation }
 activate_mission = GER_mefo_bills_mission

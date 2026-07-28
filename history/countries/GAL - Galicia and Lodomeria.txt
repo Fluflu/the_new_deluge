@@ -106,5 +106,5 @@ set_popularities = {	#chosen based on a max of CZE/POL/UKR popularities
 	neutrality = 25
 }
 
-set_cosmetic_tag = GAL_GER_puppet
+set_cosmetic_tag = GAL_SOV_puppet 
 

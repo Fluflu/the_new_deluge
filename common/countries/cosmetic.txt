@@ -1909,11 +1909,6 @@ CZE_first_monarchy_color = {
 
 #### German Protectorates ####
 
-GAL_GER_puppet = {
-	color = rgb { 120 120 120 }
-	color_ui = rgb { 120 120 120 }
-}
-
 HOL_GER_puppet = {
 	color = rgb { 130 125 110 }
 	color_ui = rgb { 130 125 110 }
@@ -1947,6 +1942,11 @@ FIN_SOV_puppet = {
 }
 
 POL_SOV_puppet = {
+	color = rgb { 90 140 10 }
+	color_ui = rgb { 90 140 10 }
+}
+
+GAL_SOV_puppet = {
 	color = rgb { 90 140 10 }
 	color_ui = rgb { 90 140 10 }
 }
