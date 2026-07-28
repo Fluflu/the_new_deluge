@@ -83,6 +83,8 @@ if = {
 	give_guarantee = ENG
 }
 
+set_cosmetic_tag = BEL_GER_puppet
+
 set_research_slots = 3
 set_stability = 0.7
 set_war_support = 0.3 #we see what you are doing there Adolf

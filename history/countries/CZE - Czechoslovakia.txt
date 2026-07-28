@@ -78,6 +78,8 @@ IF = {
 	}
 }
 
+set_cosmetic_tag = CZE_GER_puppet
+
 set_research_slots = 3
 
 ### SETUP STABILITY ###
