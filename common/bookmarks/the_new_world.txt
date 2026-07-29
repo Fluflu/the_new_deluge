@@ -8,6 +8,11 @@ bookmarks = {
         default = yes
         scrollable_country_list = yes
         filters = { new_content faction }
+        FRA = {
+            history = the_new_world_FRA_history
+            ideology = anarchisto
+            version = base_game
+        }
         GER = {
             history = the_new_world_GER_history
             ideology = neutrality
@@ -17,11 +22,6 @@ bookmarks = {
                 the_new_deluge_Kaiser_strong_focus_2
                 the_new_deluge_Kaiser_strong_focus_3
             }
-        }
-        FRA = {
-            history = the_new_world_FRA_history
-            ideology = anarchisto
-            version = base_game
         }
         ENG = {
             history = the_new_world_ENG_history
@@ -33,19 +33,9 @@ bookmarks = {
             ideology = centristo
             version = base_game
         }
-        HUN = {
-            history = the_new_world_HUN_history
-            ideology = fascism
-            version = base_game
-        }
         SOV = {
             history = the_new_world_SOV_history
             ideology = neutrality
-            version = base_game
-        }
-        SPR = {
-            history = the_new_world_SPR_history
-            ideology = fascism
             version = base_game
         }
         JAP = {
@@ -53,6 +43,65 @@ bookmarks = {
             ideology = anarchisto
             version = base_game
         }
+        SPR = {
+            history = the_new_world_SPR_history
+            ideology = fascism
+            version = base_game
+        }
+
+	"---"={
+		history = "OTHER_GATHERING_STORM_DESC"
+	}
+
+        HUN = {
+	    minor = yes
+            history = the_new_world_HUN_history
+            ideology = fascism
+            version = base_game
+        }
+
+        YUG = {
+	    minor = yes
+            history = the_new_world_YUG_history
+            ideology = fascism
+            version = base_game
+        }
+
+        ROM = {
+	    minor = yes
+            history = the_new_world_ROM_history
+            ideology = fascism
+            version = base_game
+        }
+
+        TUR = {
+	    minor = yes
+            history = the_new_world_TUR_history
+            ideology = fascism
+            version = base_game
+        }
+
+        DEN = {
+	    minor = yes
+            history = the_new_world_DEN_history
+            ideology = fascism
+            version = base_game
+        }
+
+        SWE = {
+	    minor = yes
+            history = the_new_world_SWE_history
+            ideology = fascism
+            version = base_game
+        }
+
+        USA = {
+	    minor = yes
+            history = the_new_world_USA_history
+            ideology = fascism
+            version = base_game
+        }
+
         effect = {
             randomize_weather = 12345
         }
